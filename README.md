@@ -1,5 +1,5 @@
 # Machine Learning - Chemical Toxicity Prediction Program
-Authors: Rahul Ananda Bijai, Sahil Aneja
+Authors - Rahul Ananda Bijai, Sahil Aneja  
 Language - Python  
 Libraries - Numpy, pandas, sklearn, xgboost, lightgbm, imblearn
 
