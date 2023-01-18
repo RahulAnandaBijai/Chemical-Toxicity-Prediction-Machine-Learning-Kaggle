@@ -3,6 +3,9 @@ Authors - Rahul Ananda Bijai, Sahil Aneja
 Language - Python  
 Libraries - Numpy, pandas, sklearn, xgboost, lightgbm, imblearn
 
+Link for the Online competition:
+https://www.kaggle.com/c/the-toxicity-prediction-challenge
+
 # Instructions to run the program
 
 We have provided two options to run the chemical toxicity prediction program.
